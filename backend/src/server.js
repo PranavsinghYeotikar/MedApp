@@ -6,10 +6,11 @@ import adminRoutes from "./routes/adminRoutes.js"
 const app = express();
 const port = 5000;
 
-app.use('/user', userRoutes);
-app.use('/pharmacy', pharmacyRoutes);
-app.use('/admin', adminRoutes);
-
+connectDB()
 app.listen(port, ()=>{
     console.log(`Server started at port ${port}`);
 })
+
+app.use('/user', userRoutes);
+app.use('/pharmacy', pharmacyRoutes);
+app.use('/admin', adminRoutes);
