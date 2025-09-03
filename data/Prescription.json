@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "64f000000000000000020001",
+    "patientId": "64f000000000000000001001",
+    "pharmacyId": "64f000000000000000000101",
+    "medicines": [
+      { "name": "Paracetamol", "dosage": "500mg", "frequency": "2 per day", "durationDays": 5 }
+    ],
+    "issuedAt": "2025-09-01T09:00:00Z",
+    "status": "Active"
+  }
+]

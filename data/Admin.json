@@ -1,0 +1,10 @@
+[
+  {
+    "_id": "64f000000000000000000001",
+    "name": "Super Admin",
+    "email": "admin@medapp.com",
+    "password": "hashed_password_here",
+    "role": "admin",
+    "createdAt": "2025-08-31T00:00:00Z"
+  }
+]

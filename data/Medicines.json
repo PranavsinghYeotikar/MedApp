@@ -1,0 +1,22 @@
+[
+{"name":"Paracetamol","manufacturer":"CurePharma","expiry_date":"2026-12-31","quantity":100,"price":10},
+{"name":"Amoxicillin","manufacturer":"HealthMed","expiry_date":"2025-11-30","quantity":50,"price":25},
+{"name":"Ibuprofen","manufacturer":"MedLife","expiry_date":"2026-06-30","quantity":80,"price":15},
+{"name":"Vitamin C","manufacturer":"NutriHealth","expiry_date":"2027-01-15","quantity":150,"price":8},
+{"name":"Omeprazole","manufacturer":"DigestWell","expiry_date":"2026-03-31","quantity":70,"price":20},
+{"name":"Metformin","manufacturer":"GlucoPharma","expiry_date":"2026-08-20","quantity":60,"price":30},
+{"name":"Aspirin","manufacturer":"PainAway","expiry_date":"2025-12-15","quantity":90,"price":5},
+{"name":"Cetirizine","manufacturer":"AllerCare","expiry_date":"2025-09-30","quantity":60,"price":12},
+{"name":"Azithromycin","manufacturer":"MacroPharma","expiry_date":"2026-02-28","quantity":40,"price":35},
+{"name":"Loratadine","manufacturer":"AllerCure","expiry_date":"2026-07-15","quantity":80,"price":18},
+{"name":"Doxycycline","manufacturer":"HealWell","expiry_date":"2026-11-30","quantity":50,"price":28},
+{"name":"Ranitidine","manufacturer":"GastroMed","expiry_date":"2025-10-31","quantity":60,"price":22},
+{"name":"Cefixime","manufacturer":"BioPharma","expiry_date":"2026-05-20","quantity":40,"price":30},
+{"name":"Clarithromycin","manufacturer":"MedLife","expiry_date":"2026-04-30","quantity":30,"price":40},
+{"name":"Folic Acid","manufacturer":"NutriHealth","expiry_date":"2027-02-28","quantity":120,"price":10},
+{"name":"Calcium","manufacturer":"NutriHealth","expiry_date":"2027-06-30","quantity":100,"price":15},
+{"name":"Salbutamol","manufacturer":"RespiraCare","expiry_date":"2026-09-30","quantity":70,"price":25},
+{"name":"Levocetirizine","manufacturer":"AllerCare","expiry_date":"2026-08-31","quantity":80,"price":18},
+{"name":"Prednisolone","manufacturer":"CurePharma","expiry_date":"2026-07-31","quantity":50,"price":30},
+{"name":"Hydrochlorothiazide","manufacturer":"HeartMed","expiry_date":"2026-12-31","quantity":60,"price":22}
+]

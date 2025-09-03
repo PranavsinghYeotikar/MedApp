@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "64f000000000000000010001",
+    "userId": "64f000000000000000001001",
+    "type": "DoseReminder",
+    "message": "Take 1 Paracetamol at 8:00 AM",
+    "read": false,
+    "scheduledTime": "2025-09-01T08:00:00Z",
+    "createdAt": "2025-08-31T00:00:00Z"
+  },
+  {
+    "_id": "64f000000000000000010002",
+    "userId": "64f000000000000000001001",
+    "type": "StockAlert",
+    "message": "Paracetamol is out of stock in HealthPlus Pharmacy",
+    "read": false,
+    "scheduledTime": "2025-08-31T12:00:00Z",
+    "createdAt": "2025-08-31T00:00:00Z"
+  }
+]

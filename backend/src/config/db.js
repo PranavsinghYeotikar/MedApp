@@ -1,14 +1,13 @@
 import mongoose from "mongoose";
 
 const connectDB = async () => {
-    try{
-        await mongoose.connect(process.env.MONGOURL);
-        console.log("MONGODB DATABASE CONNECTED SUCCESSFULLY")
-    }
-    catch(error){
-        console.error("Unable to CONNECT TO MONGODB", error);
-        process.exit(1); //exit with 1->failure, 0->success
-    }
-}
+  try {
+    await mongoose.connect("mongodb://127.0.0.1:27017/medapp");
+    console.log("✅ MongoDB connected");
+  } catch (err) {
+    console.error("❌ MongoDB connection error:", err);
+    process.exit(1);
+  }
+};
 
 export default connectDB;

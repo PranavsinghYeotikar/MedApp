@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "64f000000000000000001001",
+    "name": "Panya Sharma",
+    "email": "panya1@gmail.com",
+    "password": "hashed_password",
+    "phone": "9876543210",
+    "address": "Kothrud, Pune",
+    "prescriptions": [
+      {
+        "medicineName": "Paracetamol",
+        "dosage": "500mg",
+        "frequency": "2 per day",
+        "startDate": "2025-09-01",
+        "endDate": "2025-09-05",
+        "pharmacyId": "64f000000000000000000101"
+      }
+    ],
+    "reminders": [],
+    "createdAt": "2025-08-31T00:00:00Z"
+  },
+  {
+    "_id": "64f000000000000000001002",
+    "name": "Rahul Mehta",
+    "email": "rahul@gmail.com",
+    "password": "hashed_password",
+    "phone": "9123456789",
+    "address": "Shivajinagar, Pune",
+    "prescriptions": [
+      {
+        "medicineName": "Amoxicillin",
+        "dosage": "250mg",
+        "frequency": "3 per day",
+        "startDate": "2025-09-02",
+        "endDate": "2025-09-06",
+        "pharmacyId": "64f000000000000000000102"
+      }
+    ],
+    "reminders": [],
+    "createdAt": "2025-08-31T00:00:00Z"
+  },
+  {
+    "_id": "64f000000000000000001003",
+    "name": "Sneha Patil",
+    "email": "sneha@gmail.com",
+    "password": "hashed_password",
+    "phone": "9988776655",
+    "address": "Baner, Pune",
+    "prescriptions": [
+      {
+        "medicineName": "Vitamin C",
+        "dosage": "500mg",
+        "frequency": "1 per day",
+        "startDate": "2025-09-03",
+        "endDate": "2025-09-07",
+        "pharmacyId": "64f000000000000000000104"
+      }
+    ],
+    "reminders": [],
+    "createdAt": "2025-08-31T00:00:00Z"
+  },
+  {
+    "_id": "64f000000000000000001004",
+    "name": "Amit Deshmukh",
+    "email": "amit@gmail.com",
+    "password": "hashed_password",
+    "phone": "9876123456",
+    "address": "Pimple Saudagar, Pune",
+    "prescriptions": [
+      {
+        "medicineName": "Ibuprofen",
+        "dosage": "400mg",
+        "frequency": "2 per day",
+        "startDate": "2025-09-04",
+        "endDate": "2025-09-08",
+        "pharmacyId": "64f000000000000000000105"
+      }
+    ],
+    "reminders": [],
+    "createdAt": "2025-08-31T00:00:00Z"
+  },
+  {
+    "_id": "64f000000000000000001005",
+    "name": "Neha Joshi",
+    "email": "neha@gmail.com",
+    "password": "hashed_password",
+    "phone": "9765432109",
+    "address": "Kharadi, Pune",
+    "prescriptions": [
+      {
+        "medicineName": "Cough Syrup",
+        "dosage": "10ml",
+        "frequency": "3 per day",
+        "startDate": "2025-09-05",
+        "endDate": "2025-09-10",
+        "pharmacyId": "64f000000000000000000103"
+      }
+    ],
+    "reminders": [],
+    "createdAt": "2025-08-31T00:00:00Z"
+  }
+]

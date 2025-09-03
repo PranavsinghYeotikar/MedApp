@@ -1,0 +1,67 @@
+[
+    {
+        "_id": "64f000000000000000000101",
+        "name": "HealthPlus Pharmacy",
+        "email": "healthplus@pharma.com",
+        "password": "hashed_password",
+        "phone": "9876543210",
+        "address": "MG Road, Pune",
+        "licenseNumber": "LIC123456",
+        "GSTIN": "27ABCDE1234F2Z5",
+        "status": "Approved",
+        "inventory": [],
+        "createdAt": "2025-08-30T00:00:00Z"
+    },
+    {
+        "_id": "64f000000000000000000102",
+        "name": "MediCare Pharmacy",
+        "email": "medicare@pharma.com",
+        "password": "hashed_password",
+        "phone": "9123456780",
+        "address": "FC Road, Pune",
+        "licenseNumber": "LIC654321",
+        "GSTIN": "27ABCDE5678G2Z6",
+        "status": "Approved",
+        "inventory": [],
+        "createdAt": "2025-08-30T00:00:00Z"
+    },
+    {
+        "_id": "64f000000000000000000103",
+        "name": "CareWell Pharmacy",
+        "email": "carewell@pharma.com",
+        "password": "hashed_password",
+        "phone": "9988776655",
+        "address": "Baner, Pune",
+        "licenseNumber": "LIC987654",
+        "GSTIN": "27ABCDE9876H2Z7",
+        "status": "Pending",
+        "inventory": [],
+        "createdAt": "2025-08-30T00:00:00Z"
+    },
+    {
+        "_id": "64f000000000000000000104",
+        "name": "CityMed Pharmacy",
+        "email": "citymed@pharma.com",
+        "password": "hashed_password",
+        "phone": "9765432101",
+        "address": "Kothrud, Pune",
+        "licenseNumber": "LIC111222",
+        "GSTIN": "27ABCDE1122Z1X1",
+        "status": "Approved",
+        "inventory": [],
+        "createdAt": "2025-08-30T00:00:00Z"
+    },
+    {
+        "_id": "64f000000000000000000105",
+        "name": "WellCare Pharmacy",
+        "email": "wellcare@pharma.com",
+        "password": "hashed_password",
+        "phone": "9765432102",
+        "address": "Shivajinagar, Pune",
+        "licenseNumber": "LIC333444",
+        "GSTIN": "27ABCDE3344Z2X2",
+        "status": "Approved",
+        "inventory": [],
+        "createdAt": "2025-08-30T00:00:00Z"
+    }
+]
