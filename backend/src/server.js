@@ -4,7 +4,7 @@ import dotenv from "dotenv";
 
 import authRoutes from "./routes/authRoutes.js"
 import userRoutes from "./routes/userRoutes.js";
-// import pharmacyRoutes from "./routes/pharmacyRoutes.js"
+import pharmacyRoutes from "./routes/pharmacyRoutes.js"
 // import adminRoutes from "./routes/adminRoutes.js"
 
 
@@ -18,7 +18,7 @@ app.use(express.json()); // important for parsing JSON bodies
 
 app.use('/auth', authRoutes);
 app.use('/user', userRoutes);
-// app.use('/pharmacy', pharmacyRoutes);
+app.use('/pharmacy', pharmacyRoutes);
 // app.use('/admin', adminRoutes);
 
 connectDB().then(() => {
