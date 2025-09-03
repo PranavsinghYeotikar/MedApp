@@ -1,3 +1,5 @@
+//reset password ka token console pe aayega, after hitting this http://localhost:5000/auth/forgot-password
+
 import bcrypt from "bcryptjs";
 import User from "../../models/User.js";   // ✅ correct import
 
