@@ -29,6 +29,8 @@ const userSchema = new mongoose.Schema({
   address: { type: String },
   role: { type: String, enum: ["user", "pharmacy", "admin"], default: "user" },
   isVerified: { type: Boolean, default: false },
+  resetPasswordToken: { type: String },
+  resetPasswordExpires: { type: Date },
   prescriptions: [prescriptionSchema],
   reminders: [reminderSchema],
   createdAt: { type: Date, default: Date.now }

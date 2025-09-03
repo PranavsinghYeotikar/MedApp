@@ -3,7 +3,7 @@ import {
   getPendingPharmacies, 
   verifyPharmacy, 
   rejectPharmacy 
-} from "../controllers/pharmacyAdminCheck.js";
+} from "../controllers/adminController.js";
 import { authMiddleware, adminMiddleware } from "../middleware/authAndAdminMiddleware.js";
 
 const router = express.Router();
